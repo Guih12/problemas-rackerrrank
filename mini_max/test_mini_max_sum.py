@@ -1,3 +1,4 @@
+from typing import Tuple
 import unittest
 
 from mini_max.mini_max_sum import min_max, min_min

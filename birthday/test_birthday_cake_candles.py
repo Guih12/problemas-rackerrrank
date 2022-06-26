@@ -1,6 +1,6 @@
 import unittest
 
-from birthday.birthday_cake_candles import birthdayCakeCandles
+from birthday_cake_candles import birthdayCakeCandles
 
 class TestBirthdayCakeCandles(unittest.TestCase):
     #should return 2
