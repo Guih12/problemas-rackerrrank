@@ -7,3 +7,6 @@ def diagonalDiference(matrix):
         reverse = reverse + matrix[i][len(matrix)-1-i]
 
     return abs(diagonal - reverse)
+
+
+#time complexity solution O(n)
